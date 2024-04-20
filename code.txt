@@ -1,0 +1,3 @@
+MUL 2 9;
+MUL A 3;
+ADD 8 A;

@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Programming\ASTU\Home\Compiler Z++\main.cpp(75,40): warning C4101: e: неиспользованная локальная переменная
+D:\Programming\ASTU\Home\Compiler Z++\main.cpp(86,40): warning C4101: e: неиспользованная локальная переменная
+  Compiler Z++.vcxproj -> D:\Programming\ASTU\Home\x64\Debug\Compiler Z++.exe
